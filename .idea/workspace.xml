@@ -2,12 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3639b4a7-11dc-450c-a68b-9e55b27d4c8d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/singelton/BasicSingelton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/singelton/EnumBasedSingelton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/singelton/InnerStaticSingelton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/singelton/LazySingelton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/composite/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/composite/GraphicObject.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builder/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/builder/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builder/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/builder/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builder/EmployeeAddressBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/builder/EmployeeAddressBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builder/EmployeeBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/builder/EmployeeBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builder/EmployeeBuilderDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/builder/EmployeeBuilderDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builder/EmployeeBuilders.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/builder/EmployeeBuilders.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builder/EmployeeJobBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/builder/EmployeeJobBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builder/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/builder/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builder/PersonBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/builder/PersonBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factory/AbstractFactoryPatternExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/AbstractFactoryPatternExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factory/AbstractPhoneFactory$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/AbstractPhoneFactory$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factory/AbstractPhoneFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/AbstractPhoneFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factory/AndroidFactory$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/AndroidFactory$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factory/AndroidFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/AndroidFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factory/GooglePhone.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/GooglePhone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factory/LenovoPhone.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/LenovoPhone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factory/Manufacturer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/Manufacturer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factory/OSFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/OSFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factory/OSType.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/OSType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factory/Phone.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/Phone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factory/WindowsFactory$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/WindowsFactory$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factory/WindowsFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/WindowsFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factory/WindowsPhone.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/WindowsPhone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/singelton/BasicSingelton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/singelton/BasicSingelton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/singelton/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/singelton/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/singelton/DemoInnerStaticSingelton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/singelton/DemoInnerStaticSingelton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/singelton/DemoSingelton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/singelton/DemoSingelton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/singelton/EnumBasedSingelton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/singelton/EnumBasedSingelton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/singelton/EnumBasedSingeltonDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/singelton/EnumBasedSingeltonDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/singelton/InnerStaticSingelton$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/singelton/InnerStaticSingelton$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/singelton/InnerStaticSingelton$InnerStaticSingeltonImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/singelton/InnerStaticSingelton$InnerStaticSingeltonImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/singelton/InnerStaticSingelton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/singelton/InnerStaticSingelton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/singelton/LazySingelton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/singelton/LazySingelton.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -20,30 +51,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/factory/AbstractPhoneFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/factory/AbstractFactoryPatternExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/singelton/BasicSingelton.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+              <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
               <folding>
-                <element signature="e#116#117#0" expanded="true" />
+                <element signature="e#133#134#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -52,7 +65,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/singelton/LazySingelton.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
+            <state relative-caret-position="495">
               <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
             </state>
           </provider>
@@ -61,23 +74,45 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/singelton/InnerStaticSingelton.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="353">
+            <state relative-caret-position="540">
               <caret line="36" column="87" selection-start-line="36" selection-start-column="87" selection-end-line="36" selection-end-column="87" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/singelton/EnumBasedSingelton.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="385">
-              <caret line="59" column="32" lean-forward="true" selection-start-line="59" selection-start-column="32" selection-end-line="59" selection-end-column="32" />
+            <state relative-caret-position="645">
+              <caret line="50" selection-start-line="50" selection-end-line="50" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#299#300#0" expanded="true" />
-                <element signature="e#327#328#0" expanded="true" />
-                <element signature="e#370#371#0" expanded="true" />
-                <element signature="e#404#405#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/composite/GraphicObject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="915">
+              <caret line="67" column="35" selection-start-line="67" selection-start-column="35" selection-end-line="67" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/composite/Computer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="277">
+              <caret line="32" column="39" lean-forward="true" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#633#634#0" expanded="true" />
+                <element signature="e#665#666#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -125,8 +160,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -153,6 +188,8 @@
         <option value="$PROJECT_DIR$/src/main/java/singelton/LazySingelton.java" />
         <option value="$PROJECT_DIR$/src/main/java/singelton/InnerStaticSingelton.java" />
         <option value="$PROJECT_DIR$/src/main/java/singelton/EnumBasedSingelton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/composite/GraphicObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/composite/Computer.java" />
       </list>
     </option>
   </component>
@@ -206,33 +243,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="builder" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designpatterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="singelton" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designpatterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="singelton" type="462c0819:PsiDirectoryNode" />
-              <item name="BasicSingelton.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="designpatterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="singelton" type="462c0819:PsiDirectoryNode" />
-              <item name="EnumBasedSingelton.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="composite" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -256,13 +267,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.EnumBasedSingeltonDemo">
+  <component name="RunManager" selected="Application.Computer">
     <configuration name="AbstractFactoryPatternExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="factory.AbstractFactoryPatternExample" />
       <module name="designpatterns" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="factory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Computer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="composite.Computer" />
+      <module name="designpatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="composite.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -283,32 +307,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="builder.Demo" />
-      <module name="designpatterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="builder.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EmployeeBuilderDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="builder.EmployeeBuilderDemo" />
-      <module name="designpatterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="builder.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="EnumBasedSingeltonDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="singelton.EnumBasedSingeltonDemo" />
       <module name="designpatterns" />
@@ -322,13 +320,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GeometricShapesDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="composite.GeometricShapesDemo" />
+      <module name="designpatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="composite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Computer" />
+        <item itemvalue="Application.GeometricShapesDemo" />
         <item itemvalue="Application.EnumBasedSingeltonDemo" />
         <item itemvalue="Application.Demo (1)" />
         <item itemvalue="Application.AbstractFactoryPatternExample" />
-        <item itemvalue="Application.EmployeeBuilderDemo" />
-        <item itemvalue="Application.Demo" />
       </list>
     </recent_temporary>
   </component>
@@ -349,13 +360,13 @@
     <frame x="0" y="23" width="1440" height="811" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2532189" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2639485" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32962447" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32962447" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -467,6 +478,57 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/factory/AbstractFactoryPatternExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/singelton/BasicSingelton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+          <folding>
+            <element signature="e#133#134#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/singelton/LazySingelton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/singelton/InnerStaticSingelton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="87" selection-start-line="36" selection-start-column="87" selection-end-line="36" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/singelton/EnumBasedSingelton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/composite/GraphicObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="915">
+          <caret line="67" column="35" selection-start-line="67" selection-start-column="35" selection-end-line="67" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/factory/WindowsFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -495,47 +557,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factory/AbstractFactoryPatternExample.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/composite/Computer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/singelton/LazySingelton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/singelton/InnerStaticSingelton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="36" column="87" selection-start-line="36" selection-start-column="87" selection-end-line="36" selection-end-column="87" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/singelton/BasicSingelton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-          <folding>
-            <element signature="e#116#117#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/singelton/EnumBasedSingelton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="59" column="32" lean-forward="true" selection-start-line="59" selection-start-column="32" selection-end-line="59" selection-end-column="32" />
+        <state relative-caret-position="277">
+          <caret line="32" column="39" lean-forward="true" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#299#300#0" expanded="true" />
-            <element signature="e#327#328#0" expanded="true" />
-            <element signature="e#370#371#0" expanded="true" />
-            <element signature="e#404#405#0" expanded="true" />
+            <element signature="e#633#634#0" expanded="true" />
+            <element signature="e#665#666#0" expanded="true" />
           </folding>
         </state>
       </provider>
