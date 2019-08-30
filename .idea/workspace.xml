@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3639b4a7-11dc-450c-a68b-9e55b27d4c8d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/composite/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/composite/GraphicObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/decorator/DecoratorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/decorator/MagicString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/builder/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/builder/Demo.class" afterDir="false" />
@@ -15,6 +15,14 @@
       <change beforePath="$PROJECT_DIR$/target/classes/builder/EmployeeJobBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/builder/EmployeeJobBuilder.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/builder/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/builder/Person.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/builder/PersonBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/builder/PersonBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/composite/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/composite/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/composite/Component.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/composite/Component.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/composite/Composite.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/composite/Composite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/composite/Computer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/composite/Computer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/composite/GeometricShapesDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/composite/GeometricShapesDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/composite/GraphicObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/composite/GraphicObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/composite/Leaf.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/composite/Leaf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/composite/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/composite/Square.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/factory/AbstractFactoryPatternExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/AbstractFactoryPatternExample.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/factory/AbstractPhoneFactory$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/AbstractPhoneFactory$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/factory/AbstractPhoneFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/AbstractPhoneFactory.class" afterDir="false" />
@@ -51,27 +59,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/singelton/BasicSingelton.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-              <folding>
-                <element signature="e#133#134#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/singelton/LazySingelton.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/singelton/InnerStaticSingelton.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="540">
@@ -104,15 +91,107 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/composite/Computer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="277">
-              <caret line="32" column="39" lean-forward="true" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
+              <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#633#634#0" expanded="true" />
-                <element signature="e#665#666#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/decorator/MagicString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="283" selection-start-line="283" selection-end-line="283" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#287#288#0" expanded="true" />
+                <element signature="e#323#324#0" expanded="true" />
+                <element signature="e#386#387#0" expanded="true" />
+                <element signature="e#457#458#0" expanded="true" />
+                <element signature="e#537#538#0" expanded="true" />
+                <element signature="e#626#627#0" expanded="true" />
+                <element signature="e#723#724#0" expanded="true" />
+                <element signature="e#852#853#0" expanded="true" />
+                <element signature="e#1543#1544#0" expanded="true" />
+                <element signature="e#1615#1616#0" expanded="true" />
+                <element signature="e#1715#1716#0" expanded="true" />
+                <element signature="e#1815#1816#0" expanded="true" />
+                <element signature="e#1937#1938#0" expanded="true" />
+                <element signature="e#2041#2042#0" expanded="true" />
+                <element signature="e#2145#2146#0" expanded="true" />
+                <element signature="e#2611#2612#0" expanded="true" />
+                <element signature="e#2707#2708#0" expanded="true" />
+                <element signature="e#2799#2800#0" expanded="true" />
+                <element signature="e#2874#2875#0" expanded="true" />
+                <element signature="e#2975#2976#0" expanded="true" />
+                <element signature="e#3058#3059#0" expanded="true" />
+                <element signature="e#3167#3168#0" expanded="true" />
+                <element signature="e#3247#3248#0" expanded="true" />
+                <element signature="e#3353#3354#0" expanded="true" />
+                <element signature="e#3441#3442#0" expanded="true" />
+                <element signature="e#3555#3556#0" expanded="true" />
+                <element signature="e#3653#3654#0" expanded="true" />
+                <element signature="e#3775#3776#0" expanded="true" />
+                <element signature="e#3907#3908#0" expanded="true" />
+                <element signature="e#3988#3989#0" expanded="true" />
+                <element signature="e#4100#4101#0" expanded="true" />
+                <element signature="e#4188#4189#0" expanded="true" />
+                <element signature="e#4276#4277#0" expanded="true" />
+                <element signature="e#4406#4407#0" expanded="true" />
+                <element signature="e#4532#4533#0" expanded="true" />
+                <element signature="e#4666#4667#0" expanded="true" />
+                <element signature="e#4769#4770#0" expanded="true" />
+                <element signature="e#4854#4855#0" expanded="true" />
+                <element signature="e#5244#5245#0" expanded="true" />
+                <element signature="e#5322#5323#0" expanded="true" />
+                <element signature="e#5419#5420#0" expanded="true" />
+                <element signature="e#5497#5498#0" expanded="true" />
+                <element signature="e#5561#5562#0" expanded="true" />
+                <element signature="e#5631#5632#0" expanded="true" />
+                <element signature="e#5710#5711#0" expanded="true" />
+                <element signature="e#5788#5789#0" expanded="true" />
+                <element signature="e#5904#5905#0" expanded="true" />
+                <element signature="e#6033#6034#0" expanded="true" />
+                <element signature="e#6123#6124#0" expanded="true" />
+                <element signature="e#6215#6216#0" expanded="true" />
+                <element signature="e#6345#6346#0" expanded="true" />
+                <element signature="e#6583#6584#0" expanded="true" />
+                <element signature="e#6670#6671#0" expanded="true" />
+                <element signature="e#6754#6755#0" expanded="true" />
+                <element signature="e#6837#6838#0" expanded="true" />
+                <element signature="e#6921#6922#0" expanded="true" />
+                <element signature="e#7006#7007#0" expanded="true" />
+                <element signature="e#7092#7093#0" expanded="true" />
+                <element signature="e#7160#7161#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/decorator/DecoratorExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-425">
+              <caret line="45" column="39" selection-start-line="45" selection-start-column="39" selection-end-line="45" selection-end-column="39" />
+              <folding>
+                <element signature="e#159#160#0" expanded="true" />
+                <element signature="e#195#196#0" expanded="true" />
+                <element signature="e#137#138#0" expanded="true" />
+                <element signature="e#164#165#0" expanded="true" />
+                <element signature="e#485#486#0" expanded="true" />
+                <element signature="e#517#518#0" expanded="true" />
+                <element signature="e#470#471#0" expanded="true" />
+                <element signature="e#497#498#0" expanded="true" />
+                <element signature="e#708#709#0" expanded="true" />
+                <element signature="e#735#736#0" expanded="true" />
+                <element signature="e#1239#1240#0" expanded="true" />
+                <element signature="e#1278#1279#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -190,6 +269,9 @@
         <option value="$PROJECT_DIR$/src/main/java/singelton/EnumBasedSingelton.java" />
         <option value="$PROJECT_DIR$/src/main/java/composite/GraphicObject.java" />
         <option value="$PROJECT_DIR$/src/main/java/composite/Computer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/decorator/MaagicString.java" />
+        <option value="$PROJECT_DIR$/src/main/java/decorator/MagicString.java" />
+        <option value="$PROJECT_DIR$/src/main/java/decorator/DecoratorExample.java" />
       </list>
     </option>
   </component>
@@ -211,7 +293,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -243,13 +325,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="composite" type="462c0819:PsiDirectoryNode" />
+              <item name="decorator" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -267,13 +349,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Computer">
-    <configuration name="AbstractFactoryPatternExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="factory.AbstractFactoryPatternExample" />
+  <component name="RunManager">
+    <configuration name="Computer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="composite.Computer" />
       <module name="designpatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="factory.*" />
+          <option name="PATTERN" value="composite.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -281,12 +363,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Computer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="composite.Computer" />
+    <configuration name="DecoratorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="decorator.DecoratorExample" />
       <module name="designpatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="composite.*" />
+          <option name="PATTERN" value="decorator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -335,11 +417,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DecoratorExample" />
         <item itemvalue="Application.Computer" />
         <item itemvalue="Application.GeometricShapesDemo" />
         <item itemvalue="Application.EnumBasedSingeltonDemo" />
         <item itemvalue="Application.Demo (1)" />
-        <item itemvalue="Application.AbstractFactoryPatternExample" />
       </list>
     </recent_temporary>
   </component>
@@ -360,13 +442,13 @@
     <frame x="0" y="23" width="1440" height="811" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2639485" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26752505" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32962447" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32962447" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -560,11 +642,99 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/composite/Computer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="277">
-          <caret line="32" column="39" lean-forward="true" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
+          <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#633#634#0" expanded="true" />
-            <element signature="e#665#666#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/decorator/MagicString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="283" selection-start-line="283" selection-end-line="283" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+            <element signature="e#323#324#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+            <element signature="e#537#538#0" expanded="true" />
+            <element signature="e#626#627#0" expanded="true" />
+            <element signature="e#723#724#0" expanded="true" />
+            <element signature="e#852#853#0" expanded="true" />
+            <element signature="e#1543#1544#0" expanded="true" />
+            <element signature="e#1615#1616#0" expanded="true" />
+            <element signature="e#1715#1716#0" expanded="true" />
+            <element signature="e#1815#1816#0" expanded="true" />
+            <element signature="e#1937#1938#0" expanded="true" />
+            <element signature="e#2041#2042#0" expanded="true" />
+            <element signature="e#2145#2146#0" expanded="true" />
+            <element signature="e#2611#2612#0" expanded="true" />
+            <element signature="e#2707#2708#0" expanded="true" />
+            <element signature="e#2799#2800#0" expanded="true" />
+            <element signature="e#2874#2875#0" expanded="true" />
+            <element signature="e#2975#2976#0" expanded="true" />
+            <element signature="e#3058#3059#0" expanded="true" />
+            <element signature="e#3167#3168#0" expanded="true" />
+            <element signature="e#3247#3248#0" expanded="true" />
+            <element signature="e#3353#3354#0" expanded="true" />
+            <element signature="e#3441#3442#0" expanded="true" />
+            <element signature="e#3555#3556#0" expanded="true" />
+            <element signature="e#3653#3654#0" expanded="true" />
+            <element signature="e#3775#3776#0" expanded="true" />
+            <element signature="e#3907#3908#0" expanded="true" />
+            <element signature="e#3988#3989#0" expanded="true" />
+            <element signature="e#4100#4101#0" expanded="true" />
+            <element signature="e#4188#4189#0" expanded="true" />
+            <element signature="e#4276#4277#0" expanded="true" />
+            <element signature="e#4406#4407#0" expanded="true" />
+            <element signature="e#4532#4533#0" expanded="true" />
+            <element signature="e#4666#4667#0" expanded="true" />
+            <element signature="e#4769#4770#0" expanded="true" />
+            <element signature="e#4854#4855#0" expanded="true" />
+            <element signature="e#5244#5245#0" expanded="true" />
+            <element signature="e#5322#5323#0" expanded="true" />
+            <element signature="e#5419#5420#0" expanded="true" />
+            <element signature="e#5497#5498#0" expanded="true" />
+            <element signature="e#5561#5562#0" expanded="true" />
+            <element signature="e#5631#5632#0" expanded="true" />
+            <element signature="e#5710#5711#0" expanded="true" />
+            <element signature="e#5788#5789#0" expanded="true" />
+            <element signature="e#5904#5905#0" expanded="true" />
+            <element signature="e#6033#6034#0" expanded="true" />
+            <element signature="e#6123#6124#0" expanded="true" />
+            <element signature="e#6215#6216#0" expanded="true" />
+            <element signature="e#6345#6346#0" expanded="true" />
+            <element signature="e#6583#6584#0" expanded="true" />
+            <element signature="e#6670#6671#0" expanded="true" />
+            <element signature="e#6754#6755#0" expanded="true" />
+            <element signature="e#6837#6838#0" expanded="true" />
+            <element signature="e#6921#6922#0" expanded="true" />
+            <element signature="e#7006#7007#0" expanded="true" />
+            <element signature="e#7092#7093#0" expanded="true" />
+            <element signature="e#7160#7161#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/decorator/DecoratorExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-425">
+          <caret line="45" column="39" selection-start-line="45" selection-start-column="39" selection-end-line="45" selection-end-column="39" />
+          <folding>
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
+            <element signature="e#485#486#0" expanded="true" />
+            <element signature="e#517#518#0" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
+            <element signature="e#497#498#0" expanded="true" />
+            <element signature="e#708#709#0" expanded="true" />
+            <element signature="e#735#736#0" expanded="true" />
+            <element signature="e#1239#1240#0" expanded="true" />
+            <element signature="e#1278#1279#0" expanded="true" />
           </folding>
         </state>
       </provider>
