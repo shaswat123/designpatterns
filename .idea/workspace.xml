@@ -2,51 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3639b4a7-11dc-450c-a68b-9e55b27d4c8d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/decorator/DecoratorExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/decorator/MagicString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Proxy/DynamicLoggingProxyDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Proxy/ProtectionProxyDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/builder/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/builder/Demo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/builder/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/builder/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/builder/EmployeeAddressBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/builder/EmployeeAddressBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/builder/EmployeeBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/builder/EmployeeBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/builder/EmployeeBuilderDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/builder/EmployeeBuilderDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/builder/EmployeeBuilders.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/builder/EmployeeBuilders.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/builder/EmployeeJobBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/builder/EmployeeJobBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/builder/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/builder/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/builder/PersonBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/builder/PersonBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/composite/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/composite/Circle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/composite/Component.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/composite/Component.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/composite/Composite.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/composite/Composite.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/composite/Computer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/composite/Computer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/composite/GeometricShapesDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/composite/GeometricShapesDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/composite/GraphicObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/composite/GraphicObject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/composite/Leaf.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/composite/Leaf.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/composite/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/composite/Square.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factory/AbstractFactoryPatternExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/AbstractFactoryPatternExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factory/AbstractPhoneFactory$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/AbstractPhoneFactory$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factory/AbstractPhoneFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/AbstractPhoneFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factory/AndroidFactory$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/AndroidFactory$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factory/AndroidFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/AndroidFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factory/GooglePhone.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/GooglePhone.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factory/LenovoPhone.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/LenovoPhone.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factory/Manufacturer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/Manufacturer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factory/OSFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/OSFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factory/OSType.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/OSType.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factory/Phone.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/Phone.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factory/WindowsFactory$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/WindowsFactory$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factory/WindowsFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/WindowsFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factory/WindowsPhone.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/factory/WindowsPhone.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/singelton/BasicSingelton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/singelton/BasicSingelton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/singelton/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/singelton/Demo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/singelton/DemoInnerStaticSingelton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/singelton/DemoInnerStaticSingelton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/singelton/DemoSingelton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/singelton/DemoSingelton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/singelton/EnumBasedSingelton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/singelton/EnumBasedSingelton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/singelton/EnumBasedSingeltonDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/singelton/EnumBasedSingeltonDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/singelton/InnerStaticSingelton$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/singelton/InnerStaticSingelton$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/singelton/InnerStaticSingelton$InnerStaticSingeltonImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/singelton/InnerStaticSingelton$InnerStaticSingeltonImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/singelton/InnerStaticSingelton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/singelton/InnerStaticSingelton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/singelton/LazySingelton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/singelton/LazySingelton.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -58,27 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/singelton/InnerStaticSingelton.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="36" column="87" selection-start-line="36" selection-start-column="87" selection-end-line="36" selection-end-column="87" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/singelton/EnumBasedSingelton.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
-              <caret line="50" selection-start-line="50" selection-end-line="50" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/composite/GraphicObject.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -94,7 +31,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/composite/Computer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
+            <state relative-caret-position="465">
               <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -106,92 +43,177 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/decorator/MagicString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
+            <state relative-caret-position="2445">
               <caret line="283" selection-start-line="283" selection-end-line="283" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#287#288#0" expanded="true" />
-                <element signature="e#323#324#0" expanded="true" />
+                <element signature="e#348#349#0" expanded="true" />
                 <element signature="e#386#387#0" expanded="true" />
+                <element signature="e#418#419#0" expanded="true" />
                 <element signature="e#457#458#0" expanded="true" />
+                <element signature="e#494#495#0" expanded="true" />
                 <element signature="e#537#538#0" expanded="true" />
+                <element signature="e#578#579#0" expanded="true" />
                 <element signature="e#626#627#0" expanded="true" />
+                <element signature="e#671#672#0" expanded="true" />
                 <element signature="e#723#724#0" expanded="true" />
+                <element signature="e#786#787#0" expanded="true" />
                 <element signature="e#852#853#0" expanded="true" />
+                <element signature="e#1496#1497#0" expanded="true" />
                 <element signature="e#1543#1544#0" expanded="true" />
+                <element signature="e#1575#1576#0" expanded="true" />
                 <element signature="e#1615#1616#0" expanded="true" />
+                <element signature="e#1668#1669#0" expanded="true" />
                 <element signature="e#1715#1716#0" expanded="true" />
+                <element signature="e#1768#1769#0" expanded="true" />
                 <element signature="e#1815#1816#0" expanded="true" />
+                <element signature="e#1876#1877#0" expanded="true" />
                 <element signature="e#1937#1938#0" expanded="true" />
+                <element signature="e#1987#1988#0" expanded="true" />
                 <element signature="e#2041#2042#0" expanded="true" />
+                <element signature="e#2091#2092#0" expanded="true" />
                 <element signature="e#2145#2146#0" expanded="true" />
+                <element signature="e#2554#2555#0" expanded="true" />
                 <element signature="e#2611#2612#0" expanded="true" />
+                <element signature="e#2659#2660#0" expanded="true" />
                 <element signature="e#2707#2708#0" expanded="true" />
+                <element signature="e#2753#2754#0" expanded="true" />
                 <element signature="e#2799#2800#0" expanded="true" />
+                <element signature="e#2833#2834#0" expanded="true" />
                 <element signature="e#2874#2875#0" expanded="true" />
+                <element signature="e#2923#2924#0" expanded="true" />
                 <element signature="e#2975#2976#0" expanded="true" />
+                <element signature="e#3013#3014#0" expanded="true" />
                 <element signature="e#3058#3059#0" expanded="true" />
+                <element signature="e#3111#3112#0" expanded="true" />
                 <element signature="e#3167#3168#0" expanded="true" />
+                <element signature="e#3205#3206#0" expanded="true" />
                 <element signature="e#3247#3248#0" expanded="true" />
+                <element signature="e#3300#3301#0" expanded="true" />
                 <element signature="e#3353#3354#0" expanded="true" />
+                <element signature="e#3395#3396#0" expanded="true" />
                 <element signature="e#3441#3442#0" expanded="true" />
+                <element signature="e#3498#3499#0" expanded="true" />
                 <element signature="e#3555#3556#0" expanded="true" />
+                <element signature="e#3602#3603#0" expanded="true" />
                 <element signature="e#3653#3654#0" expanded="true" />
+                <element signature="e#3714#3715#0" expanded="true" />
                 <element signature="e#3775#3776#0" expanded="true" />
+                <element signature="e#3844#3845#0" expanded="true" />
                 <element signature="e#3907#3908#0" expanded="true" />
+                <element signature="e#3947#3948#0" expanded="true" />
                 <element signature="e#3988#3989#0" expanded="true" />
+                <element signature="e#4045#4046#0" expanded="true" />
                 <element signature="e#4100#4101#0" expanded="true" />
+                <element signature="e#4144#4145#0" expanded="true" />
                 <element signature="e#4188#4189#0" expanded="true" />
+                <element signature="e#4235#4236#0" expanded="true" />
                 <element signature="e#4276#4277#0" expanded="true" />
+                <element signature="e#4344#4345#0" expanded="true" />
                 <element signature="e#4406#4407#0" expanded="true" />
+                <element signature="e#4472#4473#0" expanded="true" />
                 <element signature="e#4532#4533#0" expanded="true" />
+                <element signature="e#4608#4609#0" expanded="true" />
                 <element signature="e#4666#4667#0" expanded="true" />
+                <element signature="e#4720#4721#0" expanded="true" />
                 <element signature="e#4769#4770#0" expanded="true" />
+                <element signature="e#4812#4813#0" expanded="true" />
                 <element signature="e#4854#4855#0" expanded="true" />
+                <element signature="e#5195#5196#0" expanded="true" />
                 <element signature="e#5244#5245#0" expanded="true" />
+                <element signature="e#5279#5280#0" expanded="true" />
                 <element signature="e#5322#5323#0" expanded="true" />
+                <element signature="e#5370#5371#0" expanded="true" />
                 <element signature="e#5419#5420#0" expanded="true" />
+                <element signature="e#5454#5455#0" expanded="true" />
                 <element signature="e#5497#5498#0" expanded="true" />
+                <element signature="e#5525#5526#0" expanded="true" />
                 <element signature="e#5561#5562#0" expanded="true" />
+                <element signature="e#5594#5595#0" expanded="true" />
                 <element signature="e#5631#5632#0" expanded="true" />
+                <element signature="e#5668#5669#0" expanded="true" />
                 <element signature="e#5710#5711#0" expanded="true" />
+                <element signature="e#5745#5746#0" expanded="true" />
                 <element signature="e#5788#5789#0" expanded="true" />
+                <element signature="e#5854#5855#0" expanded="true" />
                 <element signature="e#5904#5905#0" expanded="true" />
+                <element signature="e#5980#5981#0" expanded="true" />
                 <element signature="e#6033#6034#0" expanded="true" />
+                <element signature="e#6081#6082#0" expanded="true" />
                 <element signature="e#6123#6124#0" expanded="true" />
+                <element signature="e#6172#6173#0" expanded="true" />
                 <element signature="e#6215#6216#0" expanded="true" />
+                <element signature="e#6287#6288#0" expanded="true" />
                 <element signature="e#6345#6346#0" expanded="true" />
+                <element signature="e#6536#6537#0" expanded="true" />
                 <element signature="e#6583#6584#0" expanded="true" />
+                <element signature="e#6630#6631#0" expanded="true" />
                 <element signature="e#6670#6671#0" expanded="true" />
+                <element signature="e#6714#6715#0" expanded="true" />
                 <element signature="e#6754#6755#0" expanded="true" />
+                <element signature="e#6797#6798#0" expanded="true" />
                 <element signature="e#6837#6838#0" expanded="true" />
+                <element signature="e#6881#6882#0" expanded="true" />
                 <element signature="e#6921#6922#0" expanded="true" />
+                <element signature="e#6966#6967#0" expanded="true" />
                 <element signature="e#7006#7007#0" expanded="true" />
+                <element signature="e#7052#7053#0" expanded="true" />
                 <element signature="e#7092#7093#0" expanded="true" />
+                <element signature="e#7122#7123#0" expanded="true" />
                 <element signature="e#7160#7161#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/decorator/DecoratorExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-425">
+            <state relative-caret-position="15">
               <caret line="45" column="39" selection-start-line="45" selection-start-column="39" selection-end-line="45" selection-end-column="39" />
               <folding>
                 <element signature="e#159#160#0" expanded="true" />
                 <element signature="e#195#196#0" expanded="true" />
-                <element signature="e#137#138#0" expanded="true" />
-                <element signature="e#164#165#0" expanded="true" />
                 <element signature="e#485#486#0" expanded="true" />
                 <element signature="e#517#518#0" expanded="true" />
-                <element signature="e#470#471#0" expanded="true" />
-                <element signature="e#497#498#0" expanded="true" />
-                <element signature="e#708#709#0" expanded="true" />
-                <element signature="e#735#736#0" expanded="true" />
-                <element signature="e#1239#1240#0" expanded="true" />
-                <element signature="e#1278#1279#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Proxy/ProtectionProxyDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="402">
+              <caret line="43" column="1" lean-forward="true" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
+              <folding>
+                <element signature="e#196#197#0" expanded="true" />
+                <element signature="e#232#233#0" expanded="true" />
+                <element signature="e#277#278#0" expanded="true" />
+                <element signature="e#331#332#0" expanded="true" />
+                <element signature="e#432#433#0" expanded="true" />
+                <element signature="e#461#462#0" expanded="true" />
+                <element signature="e#706#707#0" expanded="true" />
+                <element signature="e#736#737#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Proxy/DynamicLoggingProxyDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-471">
+              <caret line="8" column="49" lean-forward="true" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#453#454#0" expanded="true" />
+                <element signature="e#489#490#0" expanded="true" />
+                <element signature="e#1006#1007#0" expanded="true" />
+                <element signature="e#1056#1057#0" expanded="true" />
+                <element signature="e#1100#1101#0" expanded="true" />
+                <element signature="e#1150#1151#0" expanded="true" />
+                <element signature="e#1191#1221#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -272,6 +294,8 @@
         <option value="$PROJECT_DIR$/src/main/java/decorator/MaagicString.java" />
         <option value="$PROJECT_DIR$/src/main/java/decorator/MagicString.java" />
         <option value="$PROJECT_DIR$/src/main/java/decorator/DecoratorExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Proxy/ProtectionProxyDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Proxy/DynamicLoggingProxyDemo.java" />
       </list>
     </option>
   </component>
@@ -293,7 +317,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -325,12 +348,22 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="decorator" type="462c0819:PsiDirectoryNode" />
+              <item name="Proxy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designpatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="ProtectionProxyDemo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -349,7 +382,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.DynamicLoggingProxyDemo">
     <configuration name="Computer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="composite.Computer" />
       <module name="designpatterns" />
@@ -376,12 +409,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="singelton.Demo" />
+    <configuration name="DynamicLoggingProxyDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Proxy.DynamicLoggingProxyDemo" />
       <module name="designpatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="singelton.*" />
+          <option name="PATTERN" value="Proxy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -417,11 +450,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DynamicLoggingProxyDemo" />
         <item itemvalue="Application.DecoratorExample" />
         <item itemvalue="Application.Computer" />
         <item itemvalue="Application.GeometricShapesDemo" />
         <item itemvalue="Application.EnumBasedSingeltonDemo" />
-        <item itemvalue="Application.Demo (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -442,7 +475,7 @@
     <frame x="0" y="23" width="1440" height="811" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26752505" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27825466" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -611,6 +644,140 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/composite/Computer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/decorator/MagicString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2445">
+          <caret line="283" selection-start-line="283" selection-end-line="283" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+            <element signature="e#418#419#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+            <element signature="e#494#495#0" expanded="true" />
+            <element signature="e#537#538#0" expanded="true" />
+            <element signature="e#578#579#0" expanded="true" />
+            <element signature="e#626#627#0" expanded="true" />
+            <element signature="e#671#672#0" expanded="true" />
+            <element signature="e#723#724#0" expanded="true" />
+            <element signature="e#786#787#0" expanded="true" />
+            <element signature="e#852#853#0" expanded="true" />
+            <element signature="e#1496#1497#0" expanded="true" />
+            <element signature="e#1543#1544#0" expanded="true" />
+            <element signature="e#1575#1576#0" expanded="true" />
+            <element signature="e#1615#1616#0" expanded="true" />
+            <element signature="e#1668#1669#0" expanded="true" />
+            <element signature="e#1715#1716#0" expanded="true" />
+            <element signature="e#1768#1769#0" expanded="true" />
+            <element signature="e#1815#1816#0" expanded="true" />
+            <element signature="e#1876#1877#0" expanded="true" />
+            <element signature="e#1937#1938#0" expanded="true" />
+            <element signature="e#1987#1988#0" expanded="true" />
+            <element signature="e#2041#2042#0" expanded="true" />
+            <element signature="e#2091#2092#0" expanded="true" />
+            <element signature="e#2145#2146#0" expanded="true" />
+            <element signature="e#2554#2555#0" expanded="true" />
+            <element signature="e#2611#2612#0" expanded="true" />
+            <element signature="e#2659#2660#0" expanded="true" />
+            <element signature="e#2707#2708#0" expanded="true" />
+            <element signature="e#2753#2754#0" expanded="true" />
+            <element signature="e#2799#2800#0" expanded="true" />
+            <element signature="e#2833#2834#0" expanded="true" />
+            <element signature="e#2874#2875#0" expanded="true" />
+            <element signature="e#2923#2924#0" expanded="true" />
+            <element signature="e#2975#2976#0" expanded="true" />
+            <element signature="e#3013#3014#0" expanded="true" />
+            <element signature="e#3058#3059#0" expanded="true" />
+            <element signature="e#3111#3112#0" expanded="true" />
+            <element signature="e#3167#3168#0" expanded="true" />
+            <element signature="e#3205#3206#0" expanded="true" />
+            <element signature="e#3247#3248#0" expanded="true" />
+            <element signature="e#3300#3301#0" expanded="true" />
+            <element signature="e#3353#3354#0" expanded="true" />
+            <element signature="e#3395#3396#0" expanded="true" />
+            <element signature="e#3441#3442#0" expanded="true" />
+            <element signature="e#3498#3499#0" expanded="true" />
+            <element signature="e#3555#3556#0" expanded="true" />
+            <element signature="e#3602#3603#0" expanded="true" />
+            <element signature="e#3653#3654#0" expanded="true" />
+            <element signature="e#3714#3715#0" expanded="true" />
+            <element signature="e#3775#3776#0" expanded="true" />
+            <element signature="e#3844#3845#0" expanded="true" />
+            <element signature="e#3907#3908#0" expanded="true" />
+            <element signature="e#3947#3948#0" expanded="true" />
+            <element signature="e#3988#3989#0" expanded="true" />
+            <element signature="e#4045#4046#0" expanded="true" />
+            <element signature="e#4100#4101#0" expanded="true" />
+            <element signature="e#4144#4145#0" expanded="true" />
+            <element signature="e#4188#4189#0" expanded="true" />
+            <element signature="e#4235#4236#0" expanded="true" />
+            <element signature="e#4276#4277#0" expanded="true" />
+            <element signature="e#4344#4345#0" expanded="true" />
+            <element signature="e#4406#4407#0" expanded="true" />
+            <element signature="e#4472#4473#0" expanded="true" />
+            <element signature="e#4532#4533#0" expanded="true" />
+            <element signature="e#4608#4609#0" expanded="true" />
+            <element signature="e#4666#4667#0" expanded="true" />
+            <element signature="e#4720#4721#0" expanded="true" />
+            <element signature="e#4769#4770#0" expanded="true" />
+            <element signature="e#4812#4813#0" expanded="true" />
+            <element signature="e#4854#4855#0" expanded="true" />
+            <element signature="e#5195#5196#0" expanded="true" />
+            <element signature="e#5244#5245#0" expanded="true" />
+            <element signature="e#5279#5280#0" expanded="true" />
+            <element signature="e#5322#5323#0" expanded="true" />
+            <element signature="e#5370#5371#0" expanded="true" />
+            <element signature="e#5419#5420#0" expanded="true" />
+            <element signature="e#5454#5455#0" expanded="true" />
+            <element signature="e#5497#5498#0" expanded="true" />
+            <element signature="e#5525#5526#0" expanded="true" />
+            <element signature="e#5561#5562#0" expanded="true" />
+            <element signature="e#5594#5595#0" expanded="true" />
+            <element signature="e#5631#5632#0" expanded="true" />
+            <element signature="e#5668#5669#0" expanded="true" />
+            <element signature="e#5710#5711#0" expanded="true" />
+            <element signature="e#5745#5746#0" expanded="true" />
+            <element signature="e#5788#5789#0" expanded="true" />
+            <element signature="e#5854#5855#0" expanded="true" />
+            <element signature="e#5904#5905#0" expanded="true" />
+            <element signature="e#5980#5981#0" expanded="true" />
+            <element signature="e#6033#6034#0" expanded="true" />
+            <element signature="e#6081#6082#0" expanded="true" />
+            <element signature="e#6123#6124#0" expanded="true" />
+            <element signature="e#6172#6173#0" expanded="true" />
+            <element signature="e#6215#6216#0" expanded="true" />
+            <element signature="e#6287#6288#0" expanded="true" />
+            <element signature="e#6345#6346#0" expanded="true" />
+            <element signature="e#6536#6537#0" expanded="true" />
+            <element signature="e#6583#6584#0" expanded="true" />
+            <element signature="e#6630#6631#0" expanded="true" />
+            <element signature="e#6670#6671#0" expanded="true" />
+            <element signature="e#6714#6715#0" expanded="true" />
+            <element signature="e#6754#6755#0" expanded="true" />
+            <element signature="e#6797#6798#0" expanded="true" />
+            <element signature="e#6837#6838#0" expanded="true" />
+            <element signature="e#6881#6882#0" expanded="true" />
+            <element signature="e#6921#6922#0" expanded="true" />
+            <element signature="e#6966#6967#0" expanded="true" />
+            <element signature="e#7006#7007#0" expanded="true" />
+            <element signature="e#7052#7053#0" expanded="true" />
+            <element signature="e#7092#7093#0" expanded="true" />
+            <element signature="e#7122#7123#0" expanded="true" />
+            <element signature="e#7160#7161#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/factory/WindowsFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -639,102 +806,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/composite/Computer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/decorator/MagicString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="283" selection-start-line="283" selection-end-line="283" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#287#288#0" expanded="true" />
-            <element signature="e#323#324#0" expanded="true" />
-            <element signature="e#386#387#0" expanded="true" />
-            <element signature="e#457#458#0" expanded="true" />
-            <element signature="e#537#538#0" expanded="true" />
-            <element signature="e#626#627#0" expanded="true" />
-            <element signature="e#723#724#0" expanded="true" />
-            <element signature="e#852#853#0" expanded="true" />
-            <element signature="e#1543#1544#0" expanded="true" />
-            <element signature="e#1615#1616#0" expanded="true" />
-            <element signature="e#1715#1716#0" expanded="true" />
-            <element signature="e#1815#1816#0" expanded="true" />
-            <element signature="e#1937#1938#0" expanded="true" />
-            <element signature="e#2041#2042#0" expanded="true" />
-            <element signature="e#2145#2146#0" expanded="true" />
-            <element signature="e#2611#2612#0" expanded="true" />
-            <element signature="e#2707#2708#0" expanded="true" />
-            <element signature="e#2799#2800#0" expanded="true" />
-            <element signature="e#2874#2875#0" expanded="true" />
-            <element signature="e#2975#2976#0" expanded="true" />
-            <element signature="e#3058#3059#0" expanded="true" />
-            <element signature="e#3167#3168#0" expanded="true" />
-            <element signature="e#3247#3248#0" expanded="true" />
-            <element signature="e#3353#3354#0" expanded="true" />
-            <element signature="e#3441#3442#0" expanded="true" />
-            <element signature="e#3555#3556#0" expanded="true" />
-            <element signature="e#3653#3654#0" expanded="true" />
-            <element signature="e#3775#3776#0" expanded="true" />
-            <element signature="e#3907#3908#0" expanded="true" />
-            <element signature="e#3988#3989#0" expanded="true" />
-            <element signature="e#4100#4101#0" expanded="true" />
-            <element signature="e#4188#4189#0" expanded="true" />
-            <element signature="e#4276#4277#0" expanded="true" />
-            <element signature="e#4406#4407#0" expanded="true" />
-            <element signature="e#4532#4533#0" expanded="true" />
-            <element signature="e#4666#4667#0" expanded="true" />
-            <element signature="e#4769#4770#0" expanded="true" />
-            <element signature="e#4854#4855#0" expanded="true" />
-            <element signature="e#5244#5245#0" expanded="true" />
-            <element signature="e#5322#5323#0" expanded="true" />
-            <element signature="e#5419#5420#0" expanded="true" />
-            <element signature="e#5497#5498#0" expanded="true" />
-            <element signature="e#5561#5562#0" expanded="true" />
-            <element signature="e#5631#5632#0" expanded="true" />
-            <element signature="e#5710#5711#0" expanded="true" />
-            <element signature="e#5788#5789#0" expanded="true" />
-            <element signature="e#5904#5905#0" expanded="true" />
-            <element signature="e#6033#6034#0" expanded="true" />
-            <element signature="e#6123#6124#0" expanded="true" />
-            <element signature="e#6215#6216#0" expanded="true" />
-            <element signature="e#6345#6346#0" expanded="true" />
-            <element signature="e#6583#6584#0" expanded="true" />
-            <element signature="e#6670#6671#0" expanded="true" />
-            <element signature="e#6754#6755#0" expanded="true" />
-            <element signature="e#6837#6838#0" expanded="true" />
-            <element signature="e#6921#6922#0" expanded="true" />
-            <element signature="e#7006#7007#0" expanded="true" />
-            <element signature="e#7092#7093#0" expanded="true" />
-            <element signature="e#7160#7161#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/decorator/DecoratorExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-425">
+        <state relative-caret-position="15">
           <caret line="45" column="39" selection-start-line="45" selection-start-column="39" selection-end-line="45" selection-end-column="39" />
           <folding>
             <element signature="e#159#160#0" expanded="true" />
             <element signature="e#195#196#0" expanded="true" />
-            <element signature="e#137#138#0" expanded="true" />
-            <element signature="e#164#165#0" expanded="true" />
             <element signature="e#485#486#0" expanded="true" />
             <element signature="e#517#518#0" expanded="true" />
-            <element signature="e#470#471#0" expanded="true" />
-            <element signature="e#497#498#0" expanded="true" />
-            <element signature="e#708#709#0" expanded="true" />
-            <element signature="e#735#736#0" expanded="true" />
-            <element signature="e#1239#1240#0" expanded="true" />
-            <element signature="e#1278#1279#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Proxy/DynamicLoggingProxyDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-471">
+          <caret line="8" column="49" lean-forward="true" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#453#454#0" expanded="true" />
+            <element signature="e#489#490#0" expanded="true" />
+            <element signature="e#1006#1007#0" expanded="true" />
+            <element signature="e#1056#1057#0" expanded="true" />
+            <element signature="e#1100#1101#0" expanded="true" />
+            <element signature="e#1150#1151#0" expanded="true" />
+            <element signature="e#1191#1221#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Proxy/ProtectionProxyDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="43" column="1" lean-forward="true" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
+          <folding>
+            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#331#332#0" expanded="true" />
+            <element signature="e#432#433#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+            <element signature="e#706#707#0" expanded="true" />
+            <element signature="e#736#737#0" expanded="true" />
           </folding>
         </state>
       </provider>
